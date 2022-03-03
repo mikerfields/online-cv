@@ -7,22 +7,22 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Michael Fields
+    tagline: Information Technology | Cyber Security
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: mikefields@gmail.com
+    phone: 845 467 2747
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: michael-r-fields
+    xing: none
+    github: mikerfields
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@mikerfields'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,92 +32,62 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: Exploring New Areas
         link:
 
-      - item: Cooking
+      - item: Baking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My name is Micahel Fields and I am a 22 Year Olds. 
+      I have an associates degree in Network Administration from Ulster County Community College and Currenty enrolled at Universty at Albany pursuring a balechors degree in Informatics with a conectration in Cyber Security.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.S in Informatics - Cyber Security
+      university: SUNY Albany
+      time: 2021 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        -Cumulative GPA: 4.0
+        -Presidential Honors Society 
+        -Tau Sigma National Honor Society
+        -Cyber Defense Organization Server Committee
+        
+    - degree: AAS in Network Administration
+      university: SUNY Ulster
+      time: 20018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        -Overall GPA: 3.45
+        -Graduated with Honors
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Freelance / Consultation
+      time: 2018 - 2021
+      company: Self-Employed
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Ulster County NY Region
+        -Installed cabling, wireless routers and telephone systems for data communications networks.
+        -Maintained thorough understanding of local area and wide area networking and components.
+        -Replaced failed hardware, swapping hard disks, power supplies and other field serviceable components.
+        -Troubleshoot hardware and software to determine and rectify network problems.
+    - role: Ulster County Career-Tech Center
+      time: 2016 - 2018
+      company: Ulster BOCES Career & Technical Center
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        -Removed malware, ransomware and other threats from laptops and desktop systems.
+        -Configured hardware, devices, and software to set up workstations for employees.
+        -Installed, modified, and repaired software and hardware to resolve technical issues.
+        -Built and provided basic end-user troubleshooting and desktop support on Windows, Linux, and Mac systems.
+        -Assessed system hardware and software and suggested modifications to reduce lag time and improve overall speed.
+    - role: Volunteer Work
+      time: 2009 - 2018
+      company: Ellenville NY
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        -Volunteered with groups and organizations to help make measurable differences for the community of my hometown.
 projects:
     title: Projects
     intro: >
@@ -171,23 +141,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Ruby on Rails
+        level: 25%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+        level: 30%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
+
+      - name: Networking
+        level: 80%
+
+      - name: Troubleshooting
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
